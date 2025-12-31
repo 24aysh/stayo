@@ -1,4 +1,4 @@
-# Hotel reservation backend
+## STAYO
 
 # Project environment variables
 ```
